@@ -2,7 +2,7 @@
 
 layout: slide
 title:"Welcome to our second slide!"
-
+github is awesome
 ---
 
 Your text 
